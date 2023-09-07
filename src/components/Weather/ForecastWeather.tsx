@@ -4,7 +4,7 @@ import { format } from "date-fns";
 
 const ForecastWeather = (data) => {
   const ForecastWeatherFor5Days = data.list.filter(
-    (_, i: number) => i !== 0 && i % 8 === 0,
+    (_, i: number) => i !== 0 && (i + 1) % 8 === 0,
   );
 
   return (

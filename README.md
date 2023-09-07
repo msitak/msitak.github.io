@@ -2,6 +2,8 @@
 
 This application provides accurate weather information to users based on data from the OpenWeatherMap API. It was developed as a recruitment task for co.brick.
 
+See the results - https://msitak.github.io/weather-app/
+
 ## Features
 
 - **Clean dashboard**: Displaying basic weather information.
