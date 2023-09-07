@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import Favourites from "./components/Favourites/Favourites";
 import { Box, Container } from "@mui/material";
 import { BrowserRouter } from "react-router-dom";
